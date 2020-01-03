@@ -1,0 +1,20 @@
+#include <map>
+#include <string>
+#include "proj0.hpp"
+
+
+bool verifySolution(std::string s1, std::string s2, std::string s3, const std::map<char, unsigned> & mapping)
+{
+    return false; // FYI, this stub is not a correct solution.
+}
+
+int test(int)
+{
+  return number;
+}
+
+
+
+
+
+

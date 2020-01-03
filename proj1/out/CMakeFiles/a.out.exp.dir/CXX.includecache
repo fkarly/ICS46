@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics46b/projects/proj1/app/proj1.cpp
+proj1.hpp
+/home/ics46b/projects/proj1/app/proj1.hpp
+
+/home/ics46b/projects/proj1/app/proj1.hpp
+map
+-
+string
+-
+vector
+-
+algorithm
+-
+
+/home/ics46b/projects/proj1/exp/expmain.cpp
+
